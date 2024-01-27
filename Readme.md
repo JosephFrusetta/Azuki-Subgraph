@@ -25,7 +25,7 @@ A list of example queries you can make can be found here: [Queries.md](Queries.m
 
 - https://www.azuki.com/
 - https://opensea.io/collection/azuki
-
+- https://thegraph.com/studio/subgraph/azuki/
 
 ## Run your local Graph Node
 
